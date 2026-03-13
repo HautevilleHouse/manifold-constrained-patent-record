@@ -1,0 +1,21 @@
+title: "Manifold-Constrained Patent Record"
+message: "If you use this archive, cite the patent record and timeline."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/manifold-constrained-patent-record"
+url: "https://github.com/HautevilleHouse/manifold-constrained-patent-record"
+license: None
+keywords:
+  - manifold-constrained
+  - patent-record
+  - artificial-intelligence
+  - institute-archive
+  - chronology
+preferred-citation:
+  type: article
+  title: "Manifold-Constrained Patent Record"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05
